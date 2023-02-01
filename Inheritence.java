@@ -43,10 +43,6 @@ class Child2 extends Child1{
         c2.message();
         c3.message();
 
-        
-
-        
-    
 
     }
 }
